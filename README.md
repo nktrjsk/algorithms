@@ -5,7 +5,7 @@ algorithms.
 
 # List of algorithms
 
-## Final thesis
+## [Final thesis](final_thesis/)
 
 These are algorithms that I developed in addition to the thesis I've written
 in high school, more in the [README](final_thesis/README.md) in the folder
